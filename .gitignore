@@ -19,3 +19,6 @@ build/android/gen/
 .codebuddy/
 .workbuddy/
 .trellis/
+
+# APP
+logs/
