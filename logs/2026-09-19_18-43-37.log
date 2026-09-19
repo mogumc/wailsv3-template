@@ -1,0 +1,5 @@
+[wailsv3-template] [2026/09/19 18:43:37] [INFO] 日志系统初始化完成
+[wailsv3-template] [2026/09/19 18:43:37] [INFO] 找到匹配语言: zh-CN -> default
+[wailsv3-template] [2026/09/19 18:43:37] [INFO] 语言系统初始化完成，当前语言: default
+[wailsv3-template] [2026/09/19 18:43:41] [INFO] App 服务已启动
+[wailsv3-template] [2026/09/19 18:44:10] [INFO] App 服务已关闭
